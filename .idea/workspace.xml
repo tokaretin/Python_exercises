@@ -4,45 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="5 module 2.3">
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="new names">
+      <change afterPath="$PROJECT_DIR$/module_5/5.3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5/5.3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5/5.3.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/1.1_first_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/1.1_first_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/3.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/3.10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/3.11.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/3.11.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/3.11.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/3.11.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/3.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/3.4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/3.4.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/3.4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/3.4.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/3.5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/3.5.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/3.5.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/3.5.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/3.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3/3.9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/4.2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4/4.2.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/4.2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4/4.2.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/4.2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4/4.2.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/4.3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4/4.3.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/4.3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4/4.3.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/4.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4/4.8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/5.2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5/5.2.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/5.2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5/5.2.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/5.2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5/5.2.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/students_book" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/3/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_3/task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/3/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_3/task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/3/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_3/task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/3/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_3/task_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/3/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_3/task_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/3/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_3/task_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/3/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_3/task_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/3/task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_3/task_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/4/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_4/task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/4/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_4/task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/4/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_4/task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/4/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_4/task_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/4/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_4/task_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/4/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_4/task_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/4/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_4/task_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/4/task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_4/task_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_tasks/4/tasks" beforeDir="false" afterPath="$PROJECT_DIR$/Practical_tasks_at_the_end_of_the_modules/Practical_tasks_module_4/tasks" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,43 +52,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1.1_first_module.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.11.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.11.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.4.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.5.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.5.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.3.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.3.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.2.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.2.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first_module.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_8.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.1_first_module.executor": "Run",
+    "Python.3.10.executor": "Run",
+    "Python.3.11.1.executor": "Run",
+    "Python.3.11.2.executor": "Run",
+    "Python.3.11.executor": "Run",
+    "Python.3.3.executor": "Run",
+    "Python.3.4.3.executor": "Run",
+    "Python.3.4.executor": "Run",
+    "Python.3.5.1.executor": "Run",
+    "Python.3.5.2.executor": "Run",
+    "Python.3.9.executor": "Run",
+    "Python.4.2.2.executor": "Run",
+    "Python.4.2.3.executor": "Run",
+    "Python.4.2.executor": "Run",
+    "Python.4.3.2.executor": "Run",
+    "Python.4.3.3.executor": "Run",
+    "Python.4.8.executor": "Run",
+    "Python.5.2.1.executor": "Run",
+    "Python.5.2.2.executor": "Run",
+    "Python.5.2.3.executor": "Run",
+    "Python.5.3.1.executor": "Run",
+    "Python.5.3.2.executor": "Run",
+    "Python.5.3.3.executor": "Run",
+    "Python.first_module.executor": "Run",
+    "Python.task_1.executor": "Run",
+    "Python.task_2.executor": "Run",
+    "Python.task_3.executor": "Run",
+    "Python.task_4.executor": "Run",
+    "Python.task_5.executor": "Run",
+    "Python.task_6.executor": "Run",
+    "Python.task_7.executor": "Run",
+    "Python.task_8.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ПИТОН 2025\CODE\Python_exercises\3" />
@@ -168,14 +137,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738104476748</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new names">
+      <option name="closed" value="true" />
+      <created>1738105484946</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738105484946</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second" />
     <MESSAGE value="5 module" />
     <MESSAGE value="5 module 2.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 module 2.3" />
+    <MESSAGE value="new names" />
+    <option name="LAST_COMMIT_MESSAGE" value="new names" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
