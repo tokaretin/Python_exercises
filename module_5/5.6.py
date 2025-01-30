@@ -12,4 +12,4 @@ else:
         level = 3
     else:
         level = 4
-print(f'Уровень персонала: {level}')
+    print(f'Уровень персонала: {level}')
