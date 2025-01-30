@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="I make 6 module">
-      <change afterPath="$PROJECT_DIR$/module_6/6.4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/6.4.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/6.5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/6.5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/6.5.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_6/6.4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6/6.4.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +91,10 @@
     "Python.6.3.2.executor": "Run",
     "Python.6.4.1.executor": "Run",
     "Python.6.4.2.executor": "Run",
+    "Python.6.4.3.executor": "Run",
+    "Python.6.5.1.executor": "Run",
+    "Python.6.5.2.executor": "Run",
+    "Python.6.5.3.executor": "Run",
     "Python.first_module.executor": "Run",
     "Python.task_1.executor": "Run",
     "Python.task_2.executor": "Run",
@@ -200,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738244326985</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="I make 6 module">
+      <option name="closed" value="true" />
+      <created>1738244936010</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738244936010</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
