@@ -23,4 +23,3 @@ while money < finish_money:
     money = money_procent
 
 print(f'Кол-во лет для достижения порога: {year}')
-   # print(f'{year}-й год. {money} + {procent}% = {money_proc} руб.')
