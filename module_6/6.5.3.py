@@ -16,16 +16,15 @@ print('Программа для отслеживания температуры
 
 double_tem = 0
 error = 0
+
 while True:
     sensor = int(input('Какая температура на датчике? '))
+
     if sensor == double_tem:
         print(f'Внимание: дублирующее значение температуры {double_tem} обнаружено!')
         error += 1
         print(f'Зафиксировано сбоев датчика: {error}')
-        ask = int(input('Хотите продолжить сбор данных? 1 — да, 0 — нет: 0: '))
-        if ask == 1:
-            continue
-        else:
-            break
+        ask = int(input('Хотите продолжить сбор данных? 1 — да, 0 — нет: '))
+        if ask == 0: break
     double_tem = sensor
 print('Сбор данных остановлен.')
