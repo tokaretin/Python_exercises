@@ -12,8 +12,7 @@ while True:
     elif answer == 3:
         start = n + 1
     elif answer == 1:
-        print('Я угадал! Ура! с ', count, 'попытки')
+        print(f'Я угадал! Ура! с {count} попытки. Ваше число {answer}' )
         break
     count += 1
 
-print(f'Вы отгадали число с {count} попытки')
