@@ -8,9 +8,9 @@ print(a, b)
 
 # temp = a
 # a = b             # a = module_5
-# b = temp          # b = 7
+# b = temp          # b = module_7
 
-a = a + b           # a = module_5 + 7
+a = a + b           # a = module_5 + module_7
 b = a - b           # b = 13 - b
 a = a - b           # a = 13 - b
 
@@ -19,8 +19,8 @@ print(a, b)
 
 
 # a = module_5
-# b = 7
+# b = module_7
 #
-# a = module_5 + 7
+# a = module_5 + module_7
 # b = 13 - b
 # a = 13 - b

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="practical work print(a)">
-      <change afterPath="$PROJECT_DIR$/module_6/Practical_tasks_module_6/Binary Search Algorithm.py" afterDir="false" />
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="Binary Search Algorithm">
+      <change afterPath="$PROJECT_DIR$/7/7.2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/bin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_6/Practical_tasks_module_6/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6/Practical_tasks_module_6/task_5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,65 +51,68 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1.1_first_module.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.11.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.11.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.4.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.5.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.5.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.6.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.3.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.3.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.2.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.2.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.3.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.3.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.4.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.4.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.2.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.3.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.4.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.4.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.5.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.5.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.5.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first_module.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_6.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_8.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.1_first_module.executor": "Run",
+    "Python.3.10.executor": "Run",
+    "Python.3.11.1.executor": "Run",
+    "Python.3.11.2.executor": "Run",
+    "Python.3.11.executor": "Run",
+    "Python.3.3.executor": "Run",
+    "Python.3.4.3.executor": "Run",
+    "Python.3.4.executor": "Run",
+    "Python.3.5.1.executor": "Run",
+    "Python.3.5.2.executor": "Run",
+    "Python.3.6.1.executor": "Run",
+    "Python.3.9.executor": "Run",
+    "Python.4.2.2.executor": "Run",
+    "Python.4.2.3.executor": "Run",
+    "Python.4.2.executor": "Run",
+    "Python.4.3.2.executor": "Run",
+    "Python.4.3.3.executor": "Run",
+    "Python.4.8.executor": "Run",
+    "Python.5.2.1.executor": "Run",
+    "Python.5.2.2.executor": "Run",
+    "Python.5.2.3.executor": "Run",
+    "Python.5.3.1.executor": "Run",
+    "Python.5.3.2.executor": "Run",
+    "Python.5.3.3.executor": "Run",
+    "Python.5.4.1.executor": "Run",
+    "Python.5.4.2.executor": "Run",
+    "Python.5.4.3.executor": "Run",
+    "Python.5.6.executor": "Run",
+    "Python.5.7.executor": "Run",
+    "Python.5.8.executor": "Run",
+    "Python.5.9.executor": "Run",
+    "Python.6.2.1.executor": "Run",
+    "Python.6.2.2.executor": "Run",
+    "Python.6.2.executor": "Run",
+    "Python.6.3.2.executor": "Run",
+    "Python.6.4.1.executor": "Run",
+    "Python.6.4.2.executor": "Run",
+    "Python.6.4.3.executor": "Run",
+    "Python.6.5.1.executor": "Run",
+    "Python.6.5.2.executor": "Run",
+    "Python.6.5.3.executor": "Run",
+    "Python.7.2.1.executor": "Run",
+    "Python.Binary Search Algorithm.executor": "Run",
+    "Python.bin.executor": "Run",
+    "Python.first_module.executor": "Run",
+    "Python.task_1.executor": "Run",
+    "Python.task_2.executor": "Run",
+    "Python.task_3.executor": "Run",
+    "Python.task_4.executor": "Run",
+    "Python.task_5.executor": "Run",
+    "Python.task_6.8.executor": "Run",
+    "Python.task_6.executor": "Run",
+    "Python.task_7.executor": "Run",
+    "Python.task_8.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ПИТОН 2025\CODE\Python_exercises\module_5" />
@@ -262,7 +265,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738276840748</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Binary Search Algorithm">
+      <option name="closed" value="true" />
+      <created>1738352048350</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1738352048350</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Binary Search Algorithm">
+      <option name="closed" value="true" />
+      <created>1738353411863</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1738353411863</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -279,7 +298,8 @@
     <MESSAGE value="practical work" />
     <MESSAGE value="practical work 6.4" />
     <MESSAGE value="practical work print(a)" />
-    <option name="LAST_COMMIT_MESSAGE" value="practical work print(a)" />
+    <MESSAGE value="Binary Search Algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Search Algorithm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
