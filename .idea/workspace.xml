@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="8.2.1">
-      <change afterPath="$PROJECT_DIR$/module_8/8.2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_8/8.2.3.py" afterDir="false" />
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="8.2.3">
+      <change afterPath="$PROJECT_DIR$/module_8/8.3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8/8.3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8/8.3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8/8.4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8/8.4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_8/8.4.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_8/8.2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8/8.2.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +112,9 @@
     "Python.8.2.1.executor": "Run",
     "Python.8.2.2.executor": "Run",
     "Python.8.2.3.executor": "Run",
+    "Python.8.3.1.executor": "Run",
+    "Python.8.3.2.executor": "Run",
+    "Python.8.3.3.executor": "Run",
     "Python.Binary Search Algorithm.executor": "Run",
     "Python.bin.executor": "Run",
     "Python.first_module.executor": "Run",
@@ -352,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738678104979</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="8.2.3">
+      <option name="closed" value="true" />
+      <created>1738684654658</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1738684654658</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -376,7 +390,8 @@
     <MESSAGE value="I’m done practical tasks 7.7 module" />
     <MESSAGE value="I’m done practical tasks 7.7.1 module" />
     <MESSAGE value="8.2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.2.1" />
+    <MESSAGE value="8.2.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.2.3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
