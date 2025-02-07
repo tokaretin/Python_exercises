@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="if (boy &gt; 2 * girl) or (girl &gt; 2 * boy):">
-      <change afterPath="$PROJECT_DIR$/module_9/9.2.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_9/9.2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_9/9.2.3.py" afterDir="false" />
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="string comparison">
+      <change afterPath="$PROJECT_DIR$/module_9/9.3.0_for_loop_Exemple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_9/9.3.1_for_loop_iterating_by_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_9/9.3.2_for_loop_iterating_by_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_9/9.3.3_for_loop_iterating_by_line.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,6 +120,9 @@
     "Python.9.2.1.executor": "Run",
     "Python.9.2.2.executor": "Run",
     "Python.9.2.3.executor": "Run",
+    "Python.9.3.1_for_loop_iterating_by_line.executor": "Run",
+    "Python.9.3.2_for_loop_iterating_by_line.executor": "Run",
+    "Python.9.3.3_for_loop_iterating_by_line.executor": "Run",
     "Python.Binary Search Algorithm.executor": "Run",
     "Python.bin.executor": "Run",
     "Python.first_module.executor": "Run",
@@ -402,11 +406,18 @@
       <option name="project" value="LOCAL" />
       <updated>1738944489440</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="string comparison">
+      <option name="closed" value="true" />
+      <created>1738964125944</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1738964125944</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="second" />
     <MESSAGE value="5 module" />
     <MESSAGE value="5 module 2.3" />
     <MESSAGE value="new names" />
@@ -431,7 +442,8 @@
     <MESSAGE value="8.4" />
     <MESSAGE value="I have done the practical tasks 8 module" />
     <MESSAGE value="if (boy &gt; 2 * girl) or (girl &gt; 2 * boy):" />
-    <option name="LAST_COMMIT_MESSAGE" value="if (boy &gt; 2 * girl) or (girl &gt; 2 * boy):" />
+    <MESSAGE value="string comparison" />
+    <option name="LAST_COMMIT_MESSAGE" value="string comparison" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
