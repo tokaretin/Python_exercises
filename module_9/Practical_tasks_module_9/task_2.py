@@ -10,6 +10,15 @@
 #
 # Пример
 
+number_of_rows = int(input('Введите количество рядов: '))
+seats = int(input('Введите количество сидений: '))
+free_meters = int(input('Введите количество свободных метров между рядами: '))
+
+for n in range(1, number_of_rows + 1):
+    print(n, 'ряд\t', seats * '-', free_meters * '*', seats * '-')
+
+
+
 
 
 

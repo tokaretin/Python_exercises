@@ -33,3 +33,25 @@
 # Старайтесь максимально уменьшать количество дублирований кода.
 # Если действие выполняется независимо от условий, не стоит дублировать
 # его в каждом условии.
+
+marsohod = ''
+left = 0
+right = 0
+up = 0
+down = 0
+
+while True:
+    if left < 1 or right > 20 or up < 1 or down > 15:
+        print('Ошибка')
+    if marsohod == 'A':
+        left -= 1
+    elif marsohod == 'D':
+        right += 1
+    elif marsohod == 'W':
+        up += 1
+    elif marsohod == 'S':
+        down -= 1
+
+
+        # 15 × 20 м
+        # (в точке 8, 10)

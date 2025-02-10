@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="print (symbol, end = ' ')">
-      <change afterPath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/tasks" afterDir="false" />
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="Practical_tasks_module_9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -453,11 +449,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739216857514</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Practical_tasks_module_9">
+      <option name="closed" value="true" />
+      <created>1739221556134</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1739221556134</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="AND, OR" />
     <MESSAGE value="I start working on the tasks" />
     <MESSAGE value="I have completed the 5 module practice" />
     <MESSAGE value="I make 6 module" />
@@ -482,7 +485,8 @@
     <MESSAGE value="string.split()" />
     <MESSAGE value="print (sembol, end = ' ')" />
     <MESSAGE value="print (symbol, end = ' ')" />
-    <option name="LAST_COMMIT_MESSAGE" value="print (symbol, end = ' ')" />
+    <MESSAGE value="Practical_tasks_module_9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practical_tasks_module_9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
