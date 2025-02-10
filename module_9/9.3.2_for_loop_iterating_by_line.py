@@ -29,3 +29,10 @@ text = 'Привет'
 for i, symbol in enumerate(text, start = 1):
     # symbol умножаю на 3 и получится ППП
     print(f'Строка {i}-я строка {symbol * 3}')
+
+
+    # пример
+# fruits = ["яблоко", "банан", "апельсин"]
+#
+# for index, fruit in enumerate(fruits, start=1):
+#     print(f"{index}: {fruit}")

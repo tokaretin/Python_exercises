@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="enumerate(text, start = 1):">
-      <change afterPath="$PROJECT_DIR$/module_9/9.3.0_for_loop_split().py" afterDir="false" />
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="string.split()">
+      <change afterPath="$PROJECT_DIR$/module_9/9.3.0_split()_and_isalpha().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_9/9.4.1_print_function_END.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_9/9.4.2_print_function_END.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_9/9.4.3_print_function_END.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.3.2_for_loop_iterating_by_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9/9.3.2_for_loop_iterating_by_line.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,9 +125,12 @@
     "Python.9.3.1_for_loop_iterating_by_line.executor": "Run",
     "Python.9.3.2_for_loop_iterating_by_line.executor": "Run",
     "Python.9.3.3_for_loop_iterating_by_line.executor": "Run",
+    "Python.9.4.1_print_function_END.executor": "Run",
+    "Python.9.4.2_print_function_END.executor": "Run",
     "Python.Binary Search Algorithm.executor": "Run",
     "Python.bin.executor": "Run",
     "Python.first_module.executor": "Run",
+    "Python.split()_and_isalpha().executor": "Run",
     "Python.task_1.executor": "Run",
     "Python.task_2.executor": "Run",
     "Python.task_3.executor": "Run",
@@ -420,11 +427,18 @@
       <option name="project" value="LOCAL" />
       <updated>1738967610054</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="string.split()">
+      <option name="closed" value="true" />
+      <created>1738970392162</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1738970392162</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5 module 2.3" />
     <MESSAGE value="new names" />
     <MESSAGE value="elif and else" />
     <MESSAGE value="AND, OR" />
@@ -449,7 +463,8 @@
     <MESSAGE value="if (boy &gt; 2 * girl) or (girl &gt; 2 * boy):" />
     <MESSAGE value="string comparison" />
     <MESSAGE value="enumerate(text, start = 1):" />
-    <option name="LAST_COMMIT_MESSAGE" value="enumerate(text, start = 1):" />
+    <MESSAGE value="string.split()" />
+    <option name="LAST_COMMIT_MESSAGE" value="string.split()" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
