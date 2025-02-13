@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="Symbol Football Gate">
-      <change afterPath="$PROJECT_DIR$/module_10/10.3.2.py" afterDir="false" />
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="Symbol Road">
+      <change afterPath="$PROJECT_DIR$/module_10/10.3.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Python.10.2.3.executor": "Run",
     "Python.10.3.1.executor": "Run",
     "Python.10.3.2.executor": "Run",
+    "Python.10.3.3.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -530,11 +531,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739453319269</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Symbol Road">
+      <option name="closed" value="true" />
+      <created>1739454479314</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1739454479314</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Binary Search Algorithm" />
     <MESSAGE value="I'm starting module_7" />
     <MESSAGE value="I’m doing FOR loop" />
     <MESSAGE value="I’m done practical tasks 7 module" />
@@ -559,7 +567,8 @@
     <MESSAGE value="decoder" />
     <MESSAGE value="string and if" />
     <MESSAGE value="Symbol Football Gate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Symbol Football Gate" />
+    <MESSAGE value="Symbol Road" />
+    <option name="LAST_COMMIT_MESSAGE" value="Symbol Road" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
