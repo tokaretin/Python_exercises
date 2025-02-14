@@ -6,26 +6,26 @@
 #
 # Пример:
 
+# N = int(input("Введите размер матрицы: "))
+#
+# for row in range(N):
+#     for col in range(N):
+#         if N - 1 - row > col:
+#             print(0, end='')  # Верхний левый треугольник — 0
+#         elif N - row - 1 < col:
+#             print(2, end='')  # Нижний правый треугольник — 2
+#         else:
+#             print(1, end='')  # Главная диагональ — 1
+#     print()
+
 N = int(input("Введите размер матрицы: "))
 
 for row in range(N):
     for col in range(N):
-        if N - 1 - row > col:
-            print(0, end='')  # Верхний левый треугольник — 0
-        elif N - row - 1 < col:
-            print(2, end='')  # Нижний правый треугольник — 2
+        if row < col:
+            print(2, end='')  # Левый нижний треугольник — 0
+        elif row > col:
+            print(0, end='')  # Правый верхни треугольник — 2
         else:
             print(1, end='')  # Главная диагональ — 1
     print()
-
-# N = int(input("Введите размер матрицы: "))
-
-# for row in range(N):
-#     for col in range(N):
-#         if row < col:
-#             print(2, end='')  # Левый нижний треугольник — 0
-#         elif row > col:
-#             print(0, end='')  # Правый верхни треугольник — 2
-#         else:
-#             print(1, end='')  # Главная диагональ — 1
-#     print()
