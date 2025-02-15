@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="matrix">
-      <change afterPath="$PROJECT_DIR$/module_10/10.4.1.py" afterDir="false" />
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="10.4.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_10/10.3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/10.3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/10.4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/10.4.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,7 @@
     "Python.10.3.1.executor": "Run",
     "Python.10.3.2.executor": "Run",
     "Python.10.3.3.executor": "Debug",
+    "Python.10.4.1.executor": "Debug",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -548,11 +548,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739457808463</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="10.4.1">
+      <option name="closed" value="true" />
+      <created>1739565870082</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1739565870082</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I’m doing FOR loop" />
     <MESSAGE value="I’m done practical tasks 7 module" />
     <MESSAGE value="I’m done practical tasks 7.7 module" />
     <MESSAGE value="I’m done practical tasks 7.7.1 module" />
@@ -577,7 +584,8 @@
     <MESSAGE value="Symbol Football Gate" />
     <MESSAGE value="Symbol Road" />
     <MESSAGE value="matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="matrix" />
+    <MESSAGE value="10.4.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.4.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -591,6 +599,11 @@
           <url>file://$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_5.py</url>
           <line>33</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_10/10.4.1.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
