@@ -10,7 +10,7 @@
 
 people = int(input('Введите количество людей: '))
 
-for hour in range(people + 1): # проход каждого часа (от 0 до people включительно)
+for hour in range(people + 1): # проход каждого часа (от 0 до people включительно) + еще один час
     print(f'Идет {hour}-й час') # текущий час
     for num in range(hour, people): # по номерам людей, оставшихся в очереди идем сразу от hour
         print('Номер в очереди: ', num) # номер человека в очереди

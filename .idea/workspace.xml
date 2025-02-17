@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="10.4.1">
+      <change afterPath="$PROJECT_DIR$/module_10/10.4.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module_10/10.4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/10.4.1.py" afterDir="false" />
     </list>
@@ -63,6 +64,7 @@
     "Python.10.3.2.executor": "Run",
     "Python.10.3.3.executor": "Debug",
     "Python.10.4.1.executor": "Debug",
+    "Python.10.4.2.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -556,7 +558,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739565870082</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="10.4.1">
+      <option name="closed" value="true" />
+      <created>1739625194474</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1739625194476</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -599,11 +609,6 @@
           <url>file://$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_5.py</url>
           <line>33</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_10/10.4.1.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
