@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="10.4.1">
-      <change afterPath="$PROJECT_DIR$/module_10/10.4.2.py" afterDir="false" />
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="Numbers greater than five">
+      <change afterPath="$PROJECT_DIR$/module_10/10.4.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_10/10.4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/10.4.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -566,11 +565,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739625194476</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Numbers greater than five">
+      <option name="closed" value="true" />
+      <created>1739804320269</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1739804320269</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I’m done practical tasks 7 module" />
     <MESSAGE value="I’m done practical tasks 7.7 module" />
     <MESSAGE value="I’m done practical tasks 7.7.1 module" />
     <MESSAGE value="8.2.1" />
@@ -595,7 +601,8 @@
     <MESSAGE value="Symbol Road" />
     <MESSAGE value="matrix" />
     <MESSAGE value="10.4.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.4.1" />
+    <MESSAGE value="Numbers greater than five" />
+    <option name="LAST_COMMIT_MESSAGE" value="Numbers greater than five" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
