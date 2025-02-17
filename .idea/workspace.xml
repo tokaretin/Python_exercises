@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task Matrix">
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task Stair">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/10.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/10.3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,7 @@
     "Python.10.4.3.executor": "Run",
     "Python.10.6.1.executor": "Run",
     "Python.10.6.2.executor": "Run",
+    "Python.10.6.3.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -183,14 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00003" summary="5 module 2.3">
-      <option name="closed" value="true" />
-      <created>1738104476748</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1738104476748</updated>
     </task>
     <task id="LOCAL-00004" summary="new names">
       <option name="closed" value="true" />
@@ -576,11 +570,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739828856934</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="task Stair">
+      <option name="closed" value="true" />
+      <created>1739830262925</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1739830262925</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="8.2.1" />
     <MESSAGE value="8.2.3" />
     <MESSAGE value="8.3" />
     <MESSAGE value="8.4" />
@@ -605,7 +606,8 @@
     <MESSAGE value="Numbers greater than five" />
     <MESSAGE value="task Number ladder" />
     <MESSAGE value="task Matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="task Matrix" />
+    <MESSAGE value="task Stair" />
+    <option name="LAST_COMMIT_MESSAGE" value="task Stair" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
