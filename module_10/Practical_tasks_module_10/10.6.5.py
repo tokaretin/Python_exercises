@@ -39,4 +39,4 @@ for num in range(number): #12
         max_number = natural_number
 
 
-print(f'Число 98 имеет максимальную сумму цифр: 17')
+print(f'Число {max_number} имеет максимальную сумму цифр: {max_sum}')
