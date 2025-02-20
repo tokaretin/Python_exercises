@@ -38,4 +38,5 @@ for num in range(number): #12
         max_sum = digit_sum
         max_number = natural_number
 
+
 print(f'Число 98 имеет максимальную сумму цифр: 17')
