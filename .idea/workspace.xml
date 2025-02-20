@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task Frame">
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task Prime numbers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +69,7 @@
     "Python.10.6.2.executor": "Debug",
     "Python.10.6.3.executor": "Run",
     "Python.10.6.4.executor": "Run",
+    "Python.10.6.5.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -189,14 +186,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00005" summary="elif and else">
-      <option name="closed" value="true" />
-      <created>1738145999008</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1738145999008</updated>
     </task>
     <task id="LOCAL-00006" summary="AND, OR">
       <option name="closed" value="true" />
@@ -582,11 +571,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739833736144</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="task Prime numbers">
+      <option name="closed" value="true" />
+      <created>1740062266278</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1740062266278</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="8.3" />
     <MESSAGE value="8.4" />
     <MESSAGE value="I have done the practical tasks 8 module" />
     <MESSAGE value="if (boy &gt; 2 * girl) or (girl &gt; 2 * boy):" />
@@ -611,7 +607,8 @@
     <MESSAGE value="task Matrix" />
     <MESSAGE value="task Stair" />
     <MESSAGE value="task Frame" />
-    <option name="LAST_COMMIT_MESSAGE" value="task Frame" />
+    <MESSAGE value="task Prime numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="task Prime numbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

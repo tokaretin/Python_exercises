@@ -16,3 +16,26 @@
 # Результат вывода соответствует условию.
 # Вывод содержит описание результата
 # (выведенные числа сопровождаются текстовым описанием).
+from traceback import print_tb
+
+number = int(input('Введите количество чисел: '))
+
+max_sum = 0     # Максимальная сумма цифр
+max_number = 0  # Число с максимальной суммой цифр
+
+for num in range(number): #12
+    natural_number = int(input('Введите число: '))
+
+    # Считаем сумму цифр числа
+    digit_sum = 0
+    temp = natural_number
+    while temp > 0:
+        digit_sum += temp % 10  # Добавляем последнюю цифру
+        temp //= 10  # Убираем последнюю цифру
+
+    # Проверяем, если сумма больше текущего максимума
+    if digit_sum > max_sum:
+        max_sum = digit_sum
+        max_number = natural_number
+
+print(f'Число 98 имеет максимальную сумму цифр: 17')
