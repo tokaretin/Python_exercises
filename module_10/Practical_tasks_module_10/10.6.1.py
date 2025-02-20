@@ -28,6 +28,7 @@ for row in range(number + 1):
     for col in range(number + 1):
         # Здесь :2 делает так, чтобы все числа занимали минимум 2 символа
         # (цифры выравниваются по правому краю).
+        #s = row + col * 2
         print(f'{row + col * 2:3}', end=' ')
     print('')
 

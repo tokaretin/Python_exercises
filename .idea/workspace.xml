@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task Stair">
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task Frame">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_10/10.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/10.3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +69,10 @@
     "Python.10.4.1.executor": "Debug",
     "Python.10.4.2.executor": "Run",
     "Python.10.4.3.executor": "Run",
-    "Python.10.6.1.executor": "Run",
-    "Python.10.6.2.executor": "Run",
+    "Python.10.6.1.executor": "Debug",
+    "Python.10.6.2.executor": "Debug",
     "Python.10.6.3.executor": "Run",
+    "Python.10.6.4.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -185,14 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00004" summary="new names">
-      <option name="closed" value="true" />
-      <created>1738105484946</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1738105484946</updated>
     </task>
     <task id="LOCAL-00005" summary="elif and else">
       <option name="closed" value="true" />
@@ -578,11 +574,18 @@
       <option name="project" value="LOCAL" />
       <updated>1739830262925</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="task Frame">
+      <option name="closed" value="true" />
+      <created>1739833736144</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1739833736144</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="8.2.3" />
     <MESSAGE value="8.3" />
     <MESSAGE value="8.4" />
     <MESSAGE value="I have done the practical tasks 8 module" />
@@ -607,7 +610,8 @@
     <MESSAGE value="task Number ladder" />
     <MESSAGE value="task Matrix" />
     <MESSAGE value="task Stair" />
-    <option name="LAST_COMMIT_MESSAGE" value="task Stair" />
+    <MESSAGE value="task Frame" />
+    <option name="LAST_COMMIT_MESSAGE" value="task Frame" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -621,6 +625,16 @@
           <url>file://$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_5.py</url>
           <line>33</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.1.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.2.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
