@@ -30,13 +30,12 @@ for num in range(number): #12
     digit_sum = 0
     temp = natural_number
     while temp > 0:
-        digit_sum += temp % 10  # Добавляем последнюю цифру
+        digit_sum += temp % 10  # Добавляем последнюю цифру к сумме
         temp //= 10  # Убираем последнюю цифру
 
     # Проверяем, если сумма больше текущего максимума
     if digit_sum > max_sum:
         max_sum = digit_sum
         max_number = natural_number
-
 
 print(f'Число {max_number} имеет максимальную сумму цифр: {max_sum}')
