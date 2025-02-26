@@ -80,7 +80,9 @@ for num in range(number_of_number):
         if value % j == 0:
             prime_number = False
             break
-    if prime_number:
+
+    #if prime_number:
+    else:
         number_total += 1
         number_prime.append(value)
 

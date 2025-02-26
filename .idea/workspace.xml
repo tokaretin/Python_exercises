@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task Highest number">
+      <change afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.7.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_10/10.1.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/10.1.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,8 @@
     "Python.10.6.3.executor": "Run",
     "Python.10.6.4.executor": "Run",
     "Python.10.6.5.executor": "Run",
-    "Python.10.6.6.executor": "Debug",
+    "Python.10.6.6.executor": "Run",
+    "Python.10.7.1.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -635,11 +635,6 @@
           <url>file://$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.2.py</url>
           <line>25</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.6.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
