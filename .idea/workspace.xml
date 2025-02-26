@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task Highest number">
-      <change afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.7.1.py" afterDir="false" />
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task Piramide from odd number">
+      <change afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.7.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +72,7 @@
     "Python.10.6.5.executor": "Run",
     "Python.10.6.6.executor": "Run",
     "Python.10.7.1.executor": "Run",
+    "Python.10.7.2.executor": "Debug",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -189,14 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00009" summary="I make 6 module">
-      <option name="closed" value="true" />
-      <created>1738244326985</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1738244326985</updated>
     </task>
     <task id="LOCAL-00010" summary="I make 6 module">
       <option name="closed" value="true" />
@@ -582,11 +574,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740073757164</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="task Piramide from odd number">
+      <option name="closed" value="true" />
+      <created>1740581928460</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1740581928460</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="if (boy &gt; 2 * girl) or (girl &gt; 2 * boy):" />
     <MESSAGE value="string comparison" />
     <MESSAGE value="enumerate(text, start = 1):" />
     <MESSAGE value="string.split()" />
@@ -611,7 +610,8 @@
     <MESSAGE value="task Prime numbers" />
     <MESSAGE value="task Наибольшая сумма цифр" />
     <MESSAGE value="task Highest number" />
-    <option name="LAST_COMMIT_MESSAGE" value="task Highest number" />
+    <MESSAGE value="task Piramide from odd number" />
+    <option name="LAST_COMMIT_MESSAGE" value="task Piramide from odd number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -635,6 +635,11 @@
           <url>file://$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.2.py</url>
           <line>25</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.7.2.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
