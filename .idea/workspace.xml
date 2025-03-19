@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task Piramide from odd number">
-      <change afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.7.2.py" afterDir="false" />
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task Hole from numbrs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.7.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.7.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,121 +50,121 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.1_first_module.executor": "Run",
-    "Python.10.1.1.executor": "Run",
-    "Python.10.1.2.executor": "Run",
-    "Python.10.1.3.executor": "Run",
-    "Python.10.2.1.executor": "Run",
-    "Python.10.2.2.executor": "Run",
-    "Python.10.2.3.executor": "Run",
-    "Python.10.3.1.executor": "Run",
-    "Python.10.3.2.executor": "Run",
-    "Python.10.3.3.executor": "Debug",
-    "Python.10.4.1.executor": "Debug",
-    "Python.10.4.2.executor": "Run",
-    "Python.10.4.3.executor": "Run",
-    "Python.10.6.1.executor": "Debug",
-    "Python.10.6.2.executor": "Debug",
-    "Python.10.6.3.executor": "Run",
-    "Python.10.6.4.executor": "Run",
-    "Python.10.6.5.executor": "Run",
-    "Python.10.6.6.executor": "Run",
-    "Python.10.7.1.executor": "Run",
-    "Python.10.7.2.executor": "Debug",
-    "Python.3.10.executor": "Run",
-    "Python.3.11.1.executor": "Run",
-    "Python.3.11.2.executor": "Run",
-    "Python.3.11.executor": "Run",
-    "Python.3.3.executor": "Run",
-    "Python.3.4.3.executor": "Run",
-    "Python.3.4.executor": "Run",
-    "Python.3.5.1.executor": "Run",
-    "Python.3.5.2.executor": "Run",
-    "Python.3.6.1.executor": "Run",
-    "Python.3.9.executor": "Run",
-    "Python.4.2.2.executor": "Run",
-    "Python.4.2.3.executor": "Run",
-    "Python.4.2.executor": "Run",
-    "Python.4.3.2.executor": "Run",
-    "Python.4.3.3.executor": "Run",
-    "Python.4.8.executor": "Run",
-    "Python.5.2.1.executor": "Run",
-    "Python.5.2.2.executor": "Run",
-    "Python.5.2.3.executor": "Run",
-    "Python.5.3.1.executor": "Run",
-    "Python.5.3.2.executor": "Run",
-    "Python.5.3.3.executor": "Run",
-    "Python.5.4.1.executor": "Run",
-    "Python.5.4.2.executor": "Run",
-    "Python.5.4.3.executor": "Run",
-    "Python.5.6.executor": "Run",
-    "Python.5.7.executor": "Run",
-    "Python.5.8.executor": "Run",
-    "Python.5.9.executor": "Run",
-    "Python.6.2.1.executor": "Run",
-    "Python.6.2.2.executor": "Run",
-    "Python.6.2.executor": "Run",
-    "Python.6.3.2.executor": "Run",
-    "Python.6.4.1.executor": "Run",
-    "Python.6.4.2.executor": "Run",
-    "Python.6.4.3.executor": "Run",
-    "Python.6.5.1.executor": "Run",
-    "Python.6.5.2.executor": "Run",
-    "Python.6.5.3.executor": "Run",
-    "Python.7.2.1.executor": "Run",
-    "Python.7.2.2.executor": "Run",
-    "Python.7.2.3.executor": "Run",
-    "Python.7.3.1.executor": "Run",
-    "Python.7.3.2.executor": "Run",
-    "Python.7.3.3.executor": "Run",
-    "Python.7.4.1.executor": "Run",
-    "Python.7.4.2.executor": "Run",
-    "Python.7.4.3.executor": "Run",
-    "Python.7.5.1.executor": "Run",
-    "Python.7.7.1.executor": "Run",
-    "Python.8.2.1.executor": "Run",
-    "Python.8.2.2.executor": "Run",
-    "Python.8.2.3.executor": "Run",
-    "Python.8.3.1.executor": "Run",
-    "Python.8.3.2.executor": "Run",
-    "Python.8.3.3.executor": "Run",
-    "Python.8.4.1.executor": "Run",
-    "Python.8.4.2.executor": "Run",
-    "Python.8.4.3.executor": "Run",
-    "Python.8.7.1.executor": "Run",
-    "Python.9.2.1.executor": "Run",
-    "Python.9.2.2.executor": "Run",
-    "Python.9.2.3.executor": "Run",
-    "Python.9.3.0_for_loop_split().executor": "Run",
-    "Python.9.3.1_for_loop_iterating_by_line.executor": "Run",
-    "Python.9.3.2_for_loop_iterating_by_line.executor": "Run",
-    "Python.9.3.3_for_loop_iterating_by_line.executor": "Run",
-    "Python.9.4.1_print_function_END.executor": "Run",
-    "Python.9.4.2_print_function_END.executor": "Run",
-    "Python.9.4.3_print_function_END.executor": "Run",
-    "Python.9.7.1.executor": "Run",
-    "Python.9.7.2_decoder.executor": "Run",
-    "Python.Binary Search Algorithm.executor": "Run",
-    "Python.bin.executor": "Run",
-    "Python.first_module.executor": "Run",
-    "Python.split()_and_isalpha().executor": "Run",
-    "Python.task_1.executor": "Run",
-    "Python.task_2.executor": "Run",
-    "Python.task_3.executor": "Run",
-    "Python.task_4.executor": "Run",
-    "Python.task_5.executor": "Run",
-    "Python.task_6.8.executor": "Run",
-    "Python.task_6.executor": "Run",
-    "Python.task_7.executor": "Run",
-    "Python.task_8.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.1_first_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.1.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.1.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.1.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.3.3.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.10.4.1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.10.4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.4.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.6.1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.10.6.2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.10.6.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.6.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.6.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.6.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.7.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.7.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.11.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.11.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.4.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.5.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.5.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.6.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.4.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.4.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.5.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.5.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.5.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.4.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.5.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.7.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.4.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.7.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.3.0_for_loop_split().executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.3.1_for_loop_iterating_by_line.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.3.2_for_loop_iterating_by_line.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.3.3_for_loop_iterating_by_line.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.4.1_print_function_END.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.4.2_print_function_END.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.4.3_print_function_END.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.7.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.7.2_decoder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Binary Search Algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.first_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.split()_and_isalpha().executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_6.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_8.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ПИТОН 2025\CODE\Python_exercises\module_10" />
@@ -189,14 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00010" summary="I make 6 module">
-      <option name="closed" value="true" />
-      <created>1738244936010</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1738244936010</updated>
     </task>
     <task id="LOCAL-00011" summary="I make 6 module">
       <option name="closed" value="true" />
@@ -582,11 +574,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740581928460</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="task Hole from numbrs">
+      <option name="closed" value="true" />
+      <created>1740583460409</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1740583460409</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string comparison" />
     <MESSAGE value="enumerate(text, start = 1):" />
     <MESSAGE value="string.split()" />
     <MESSAGE value="print (sembol, end = ' ')" />
@@ -611,7 +610,8 @@
     <MESSAGE value="task Наибольшая сумма цифр" />
     <MESSAGE value="task Highest number" />
     <MESSAGE value="task Piramide from odd number" />
-    <option name="LAST_COMMIT_MESSAGE" value="task Piramide from odd number" />
+    <MESSAGE value="task Hole from numbrs" />
+    <option name="LAST_COMMIT_MESSAGE" value="task Hole from numbrs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -635,11 +635,6 @@
           <url>file://$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.2.py</url>
           <line>25</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.7.2.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

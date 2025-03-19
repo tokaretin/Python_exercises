@@ -10,11 +10,11 @@ n = int(input("Введите число N: "))
 
 for i in range(n):  # Цикл по строкам
     for left in range(n, n - i - 1, -1):  # Левая часть
-        print(left, end="")
+        print(left, end="\t")
 
-    print("." * (2 * (n - i - 1)), end="")  # Средние точки
+    print(".\t" * (2 * (n - i - 1)), end="")  # Средние точки
 
     for right in range(n - i, n + 1):  # Правая часть
-        print(right, end="")
+        print(right, end="\t")
 
     print()  # Переход на новую строку
