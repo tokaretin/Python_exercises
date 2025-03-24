@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task">
-      <change afterPath="$PROJECT_DIR$/module_11/11.2.1_Sports_betting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_11/11.2.2_Birthday.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_11/11.2.3_Dody_mass_index.py" afterDir="false" />
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/11.3.1_Space_Rangers.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11/11.3.1_Space_Rangers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +76,7 @@
     "Python.11.2.2_Birthday.executor": "Run",
     "Python.11.2.3_Dody_mass_index.executor": "Run",
     "Python.11.2_sports betting.executor": "Run",
+    "Python.11.3.1_Space_Rangers.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -194,14 +193,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00012" summary="I make 6.5 module">
-      <option name="closed" value="true" />
-      <created>1738252946129</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1738252946129</updated>
     </task>
     <task id="LOCAL-00013" summary="practical work">
       <option name="closed" value="true" />
@@ -587,11 +578,18 @@
       <option name="project" value="LOCAL" />
       <updated>1742387773295</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="task module 11">
+      <option name="closed" value="true" />
+      <created>1742820707249</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1742820707249</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string.split()" />
     <MESSAGE value="print (sembol, end = ' ')" />
     <MESSAGE value="print (symbol, end = ' ')" />
     <MESSAGE value="Practical_tasks_module_9" />
@@ -616,7 +614,8 @@
     <MESSAGE value="task Piramide from odd number" />
     <MESSAGE value="task Hole from numbrs" />
     <MESSAGE value="task" />
-    <option name="LAST_COMMIT_MESSAGE" value="task" />
+    <MESSAGE value="task module 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="task module 11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
