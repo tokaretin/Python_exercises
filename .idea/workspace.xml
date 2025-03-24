@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 11">
+      <change afterPath="$PROJECT_DIR$/module_11/11.3.2_Computer_vision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_11/11.3.3_Accuracy_and_precision.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_11/11.3.1_Space_Rangers.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11/11.3.1_Space_Rangers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +78,8 @@
     "Python.11.2.3_Dody_mass_index.executor": "Run",
     "Python.11.2_sports betting.executor": "Run",
     "Python.11.3.1_Space_Rangers.executor": "Run",
+    "Python.11.3.2_Computer_vision.executor": "Run",
+    "Python.11.3.3_Accuracy_and_precision.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -193,14 +196,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00013" summary="practical work">
-      <option name="closed" value="true" />
-      <created>1738262094850</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1738262094850</updated>
     </task>
     <task id="LOCAL-00014" summary="practical work">
       <option name="closed" value="true" />
@@ -586,7 +581,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742820707249</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="task module 11">
+      <option name="closed" value="true" />
+      <created>1742822682562</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1742822682562</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
