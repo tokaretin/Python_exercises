@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 11.4 Mega calculator">
-      <change afterPath="$PROJECT_DIR$/module_11/11.4.0.1_Heron.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_11/11.4.0.2_Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_11/11.4.0_Mega_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11/11.4.0.0_Mega_calculator.py" afterDir="false" />
-    </list>
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 11.4 - 3 tasks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +76,7 @@
     "Python.11.3.1_Space_Rangers.executor": "Run",
     "Python.11.3.2_Computer_vision.executor": "Run",
     "Python.11.3.3_Accuracy_and_precision.executor": "Run",
+    "Python.11.4.0.0_Mega_calculator.executor": "Run",
     "Python.11.4.0.1_Heron.executor": "Run",
     "Python.11.4.0.2_Game.executor": "Run",
     "Python.11.4.0.executor": "Run",
@@ -200,14 +196,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00016" summary="practical work print(a)">
-      <option name="closed" value="true" />
-      <created>1738276840748</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1738276840748</updated>
     </task>
     <task id="LOCAL-00017" summary="Binary Search Algorithm">
       <option name="closed" value="true" />
@@ -593,11 +581,18 @@
       <option name="project" value="LOCAL" />
       <updated>1742912858739</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="task module 11.4 - 3 tasks">
+      <option name="closed" value="true" />
+      <created>1742913822474</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1742913822474</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="print (symbol, end = ' ')" />
     <MESSAGE value="Practical_tasks_module_9" />
     <MESSAGE value="Practical_tasks_module_9 Task_3" />
     <MESSAGE value="Practical_tasks_module_9 Task_4" />
@@ -622,7 +617,8 @@
     <MESSAGE value="task" />
     <MESSAGE value="task module 11" />
     <MESSAGE value="task module 11.4 Mega calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="task module 11.4 Mega calculator" />
+    <MESSAGE value="task module 11.4 - 3 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="task module 11.4 - 3 tasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
