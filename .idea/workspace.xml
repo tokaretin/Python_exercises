@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 11.4 - 3 tasks">
-      <change afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.1_Converting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.2_Rough_math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.3_Steam_Analog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.4_The_first_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.5_That’s_the_volume!.py" afterDir="false" />
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 11.6 - 1 task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.1_Converting.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.1_Converting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.2_Rough_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.2_Rough_math.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +84,8 @@
     "Python.11.4.0.1_Heron.executor": "Run",
     "Python.11.4.0.2_Game.executor": "Run",
     "Python.11.4.0.executor": "Run",
+    "Python.11.6.1_Converting.executor": "Run",
+    "Python.11.6.2_Rough_math.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -203,22 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00019" summary="I'm starting module_7">
-      <option name="closed" value="true" />
-      <created>1738447038161</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1738447038161</updated>
-    </task>
-    <task id="LOCAL-00020" summary="I'm starting module_7">
-      <option name="closed" value="true" />
-      <created>1738451834274</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1738451834274</updated>
     </task>
     <task id="LOCAL-00021" summary="I’m doing FOR loop">
       <option name="closed" value="true" />
@@ -596,11 +579,26 @@
       <option name="project" value="LOCAL" />
       <updated>1742914413772</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="task module 11. - 3 tasks">
+      <option name="closed" value="true" />
+      <created>1742921749243</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1742921749243</updated>
+    </task>
+    <task id="LOCAL-00069" summary="task module 11.6 - 1 task">
+      <option name="closed" value="true" />
+      <created>1743006759140</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1743006759140</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practical_tasks_module_9" />
     <MESSAGE value="Practical_tasks_module_9 Task_3" />
     <MESSAGE value="Practical_tasks_module_9 Task_4" />
     <MESSAGE value="Practical_tasks_module_9 Task_5" />
@@ -625,7 +623,8 @@
     <MESSAGE value="task module 11" />
     <MESSAGE value="task module 11.4 Mega calculator" />
     <MESSAGE value="task module 11.4 - 3 tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="task module 11.4 - 3 tasks" />
+    <MESSAGE value="task module 11.6 - 1 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="task module 11.6 - 1 task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

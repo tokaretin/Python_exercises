@@ -34,3 +34,32 @@
 # Формат вывода соответствует примеру.
 # Вывод содержит описание результата (выведенные числа сопровождаются
 # текстовым описанием).
+
+import math
+
+numbers = int(input('Введите кол-во чисел: '))
+
+for i in range(1, numbers + 1):
+    x = float(input('Введите число: '))
+
+    if x < 0:
+        x = math.floor(x)
+        exp = math.exp(x)
+        print(f'x = {x}, exp(x) = {exp}')
+    if x > 0:
+        x = math.ceil(x)
+        log = math.log(x)
+        print(f'x = {x}, log(x) = {log}')
+
+'''Второй вариант кода. Он отключен, так как первый более понятен на мой взгяд
+import math
+
+numbers = int(input('Введите кол-во чисел: '))
+
+for i in range(1, numbers + 1):
+    x = float(input('Введите число: '))
+
+    if x < 0:
+        print(f'x = {math.floor(x)}, exp(x) = {math.exp(math.floor(x))}')
+    if x > 0:
+        print(f'x = {math.ceil(x)}, log(x) = {math.log(math.ceil(x))}')'''

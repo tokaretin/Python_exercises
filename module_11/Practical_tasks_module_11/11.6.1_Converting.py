@@ -18,9 +18,11 @@
 # Результат вывода соответствует условию.
 # Вывод содержит
 
-product_euro = float(input('Стоимость покупки в евро: '))
 EURO = 1.25
 DOLLAR = 60.87
+
+product_euro = float(input('Стоимость покупки в евро: '))
+
 cost_in_rub = product_euro * EURO * DOLLAR
 
 print(f'Стоимость в рублях: {cost_in_rub}')
