@@ -33,3 +33,22 @@
 # Что оценивается
 # Результат вывода соответствует условию.
 # Вывод содержит описание результата (выведенные числа сопровождаются текстовым описанием).
+
+
+megabits = int(input('Укажите размер файла для скачивания (Мб): '))
+speed_internet = int(input('Какова скорость интернет-соединения в (Мб/сек) : '))
+
+download = 0
+sec = 0
+
+while download < megabits:
+    sec += 1
+    download += speed_internet
+
+    if download > megabits:
+        download = megabits
+    procent = int((download / megabits) * 100)
+    print(f'Прошло {sec} сек. Скачано {download} из {megabits} Мб ({procent}%)')
+
+print(f'Скачивание завершино за {sec} секунд')
+

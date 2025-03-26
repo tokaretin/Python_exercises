@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 11.6 - 1 task">
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 11.6 - 2 task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.1_Converting.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.1_Converting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.2_Rough_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.2_Rough_math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.3_Steam_Analog.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.3_Steam_Analog.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +85,7 @@
     "Python.11.4.0.executor": "Run",
     "Python.11.6.1_Converting.executor": "Run",
     "Python.11.6.2_Rough_math.executor": "Run",
+    "Python.11.6.3_Steam_Analog.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -202,14 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00021" summary="I’m doing FOR loop">
-      <option name="closed" value="true" />
-      <created>1738452173166</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1738452173166</updated>
     </task>
     <task id="LOCAL-00022" summary="I’m done practical tasks 7 module">
       <option name="closed" value="true" />
@@ -595,11 +587,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743006759140</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="task module 11.6 - 2 task">
+      <option name="closed" value="true" />
+      <created>1743009485421</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1743009485421</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practical_tasks_module_9 Task_3" />
     <MESSAGE value="Practical_tasks_module_9 Task_4" />
     <MESSAGE value="Practical_tasks_module_9 Task_5" />
     <MESSAGE value="Practical_tasks_module_9 reverse_word" />
@@ -624,7 +623,8 @@
     <MESSAGE value="task module 11.4 Mega calculator" />
     <MESSAGE value="task module 11.4 - 3 tasks" />
     <MESSAGE value="task module 11.6 - 1 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="task module 11.6 - 1 task" />
+    <MESSAGE value="task module 11.6 - 2 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="task module 11.6 - 2 task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
