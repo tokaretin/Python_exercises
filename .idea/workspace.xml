@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 11.6 - 4 task">
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 11.6 - 5 task">
+      <change afterPath="$PROJECT_DIR$/module_12/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.5_That’s_the_volume!.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.5_That’s_the_volume!.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +162,7 @@
     "Python.9.7.1.executor": "Run",
     "Python.9.7.2_decoder.executor": "Run",
     "Python.Binary Search Algorithm.executor": "Run",
+    "Python.__init__.executor": "Run",
     "Python.bin.executor": "Run",
     "Python.first_module.executor": "Run",
     "Python.split()_and_isalpha().executor": "Run",
@@ -204,14 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00024" summary="I’m done practical tasks 7.7.1 module">
-      <option name="closed" value="true" />
-      <created>1738667429851</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1738667429851</updated>
     </task>
     <task id="LOCAL-00025" summary="8.2.1">
       <option name="closed" value="true" />
@@ -597,11 +590,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743015618237</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="task module 11.6 - 5 task">
+      <option name="closed" value="true" />
+      <created>1743024530355</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1743024530355</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practical_tasks_module_9 reverse_word" />
     <MESSAGE value="decoder" />
     <MESSAGE value="string and if" />
     <MESSAGE value="Symbol Football Gate" />
@@ -626,7 +626,8 @@
     <MESSAGE value="task module 11.6 - 2 task" />
     <MESSAGE value="task module 11.6 - 3 task" />
     <MESSAGE value="task module 11.6 - 4 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="task module 11.6 - 4 task" />
+    <MESSAGE value="task module 11.6 - 5 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="task module 11.6 - 5 task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
