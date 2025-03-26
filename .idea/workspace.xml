@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 11.6 - 2 task">
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 11.6 - 3 task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.3_Steam_Analog.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.3_Steam_Analog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.4_The_first_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.4_The_first_number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +87,7 @@
     "Python.11.6.1_Converting.executor": "Run",
     "Python.11.6.2_Rough_math.executor": "Run",
     "Python.11.6.3_Steam_Analog.executor": "Run",
+    "Python.11.6.4_The_first_number.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -202,14 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00022" summary="I’m done practical tasks 7 module">
-      <option name="closed" value="true" />
-      <created>1738623066369</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1738623066369</updated>
     </task>
     <task id="LOCAL-00023" summary="I’m done practical tasks 7.7 module">
       <option name="closed" value="true" />
@@ -595,11 +589,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743009485421</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="task module 11.6 - 3 task">
+      <option name="closed" value="true" />
+      <created>1743013399144</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1743013399144</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practical_tasks_module_9 Task_4" />
     <MESSAGE value="Practical_tasks_module_9 Task_5" />
     <MESSAGE value="Practical_tasks_module_9 reverse_word" />
     <MESSAGE value="decoder" />
@@ -624,7 +625,8 @@
     <MESSAGE value="task module 11.4 - 3 tasks" />
     <MESSAGE value="task module 11.6 - 1 task" />
     <MESSAGE value="task module 11.6 - 2 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="task module 11.6 - 2 task" />
+    <MESSAGE value="task module 11.6 - 3 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="task module 11.6 - 3 task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
