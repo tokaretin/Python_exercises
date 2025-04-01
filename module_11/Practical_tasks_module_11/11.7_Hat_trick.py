@@ -25,21 +25,21 @@
 # Когда будете готовы, нажмите кнопку ниже, чтобы посмотреть решение задачи.
 
 print('Введите местоположение коня: ')
-
-x = float(input('По гаризонтали: '))
-y = float(input('По вертикали: '))
-
-# Определяем номер клетки (каждая клетка делится на 10)
-sqr_x = int(x * 10)
-sqr_y = int(y * 10)
+x_horse = float(input('По гаризонтали: '))
+y_horse = float(input('По вертикали: '))
 
 print('Введите местоположение точки на доске: ')
-x1 = float(input('По гаризонтали: '))
-y1 = float(input('По вертикали: '))
+x_point = float(input('По гаризонтали: '))
+y_point = float(input('По вертикали: '))
 
-sqr_x1 = int(x1 * 10)
-sqr_y1 = int(y1 * 10)
-print(f'({sqr_x1}, {sqr_y1})')
+# Определяем номер клетки (каждая клетка делится на 10)
+x_horse = int(x_horse * 10)
+y_horse = int(y_horse * 10)
+x_point = int(x_point * 10)
+y_point = int(y_point * 10)
+
+print(f'({x_horse}, {y_horse})')
+print(f'({x_point}, {y_point})')
 
 if 0 <= sqr_x1 < 8 or 0 <= sqr_y1 < 8:
     print(f'Конь находится в клетке {sqr_x}, {sqr_y}')
