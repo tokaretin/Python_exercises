@@ -37,3 +37,4 @@ if 0 <= x_square < 8 and 0 <= y_square < 8:
     print(f'Фигура находится в клетке ({x_square}, {y_square})')
 else:
     print('Клетки с такой координатой не существует')
+
