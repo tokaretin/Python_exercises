@@ -49,9 +49,22 @@ print(f'({x_point}, {y_point})')
 # Первое условие проверяет случай, когда конь может переместиться
 # на одну клетку по оси X и на две клетки по оси Y.
 # Второе условие проверяет обратную ситуацию: на две клетки по оси X и на одну клетку по оси Y.
-if (x_horse + 1 == x_point or x_horse - 1 == x_point) and (y_horse + 2 == y_point or y_horse - 2 == y_point):
-    print(f'Да, конь может ходить в эту точку.')
-elif (x_horse + 2 == x_point or x_horse - 2 == x_point) and (y_horse + 1 == y_point or y_horse - 1 == y_point):
+# ns = (x_horse + 1 == x_point or x_horse - 1 == x_point) and (y_horse + 2 == y_point or y_horse - 2 == y_point)
+# ew = (x_horse + 2 == x_point or x_horse - 2 == x_point) and (y_horse + 1 == y_point or y_horse - 1 == y_point)
+# if ns or ew:
+#     print(f'Да, конь может ходить в эту точку.')
+# else:
+#     print(f'Нет, конь не может ходить в эту точку')
+h1 = x_horse + 1 == x_point and y_horse + 2 == y_point
+h2 = x_horse + 1 == x_point and y_horse - 2 == y_point
+h3 = x_horse - 1 == x_point and y_horse + 2 == y_point
+h4 = x_horse - 1 == x_point and y_horse - 2 == y_point
+h5 = x_horse + 2 == x_point and y_horse + 1 == y_point
+h6 = x_horse + 2 == x_point and y_horse - 1 == y_point
+h7 = x_horse - 2 == x_point and y_horse + 1 == y_point
+h8 = x_horse - 2 == x_point and y_horse - 1 == y_point
+
+if h1 or h2 or h3 or h4:
     print(f'Да, конь может ходить в эту точку.')
 else:
     print(f'Нет, конь не может ходить в эту точку')

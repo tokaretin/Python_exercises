@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 11.7 - float">
-      <change afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.7..1_Maximum_of_two_numbers.py" afterDir="false" />
+    <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 11.7.1">
+      <change afterPath="$PROJECT_DIR$/module_12/12.2.1_Robot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/12.2.2_Provision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/12.2.3_Post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/12.2_def.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.7_Hat_trick_(first_variant).py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.7_Hat_trick_(first_variant).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12/12.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +98,10 @@
     "Python.11.7_Hat_trick_(second_variant).executor": "Run",
     "Python.11.7_Hat_trick_(third_variant).executor": "Run",
     "Python.12.1.executor": "Run",
+    "Python.12.2.1_Robot.executor": "Run",
+    "Python.12.2.2_Provision.executor": "Run",
+    "Python.12.2.3_Post.executor": "Run",
+    "Python.12.2_def.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -210,14 +219,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00031" summary="string comparison">
-      <option name="closed" value="true" />
-      <created>1738964125944</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1738964125944</updated>
     </task>
     <task id="LOCAL-00032" summary="enumerate(text, start = 1):">
       <option name="closed" value="true" />
@@ -603,11 +604,18 @@
       <option name="project" value="LOCAL" />
       <updated>1744095212306</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="task module 11.7.1">
+      <option name="closed" value="true" />
+      <created>1744098308239</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1744098308239</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Symbol Football Gate" />
     <MESSAGE value="Symbol Road" />
     <MESSAGE value="matrix" />
     <MESSAGE value="10.4.1" />
@@ -632,7 +640,8 @@
     <MESSAGE value="task module 11.6 - 5 task" />
     <MESSAGE value="task module 12.1 - float" />
     <MESSAGE value="task module 11.7 - float" />
-    <option name="LAST_COMMIT_MESSAGE" value="task module 11.7 - float" />
+    <MESSAGE value="task module 11.7.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="task module 11.7.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -656,6 +665,11 @@
           <url>file://$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.2.py</url>
           <line>25</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_12/12.2.2_Provision.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
