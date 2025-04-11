@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 12">
-      <change afterPath="$PROJECT_DIR$/module_12/12.2.3.1_Post.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_12/12.3.1_Water.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_12/12.3.2_This_is_volume_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_12/12.3.3_is_prime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_12/12_float_format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/12.4.1_Arithmetic_mean.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.2.3.1_Post.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12/12.2.3.1_Post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.3.3_is_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12/12.3.3_is_prime.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +103,7 @@
     "Python.12.3.1_Water.executor": "Run",
     "Python.12.3.2_This_is_volume_2.executor": "Run",
     "Python.12.3.3_is_prime.executor": "Run",
+    "Python.12.4.1_Arithmetic_mean.executor": "Run",
     "Python.12_float_format.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
@@ -223,14 +222,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00033" summary="string.split()">
-      <option name="closed" value="true" />
-      <created>1738970392162</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1738970392162</updated>
     </task>
     <task id="LOCAL-00034" summary="print (sembol, end = ' ')">
       <option name="closed" value="true" />
@@ -616,7 +607,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744324638855</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="task module 12">
+      <option name="closed" value="true" />
+      <created>1744383615810</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1744383615810</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
