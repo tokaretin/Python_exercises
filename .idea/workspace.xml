@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 12">
-      <change afterPath="$PROJECT_DIR$/module_12/12.4.1_Arithmetic_mean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/12.4.2_Post_2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/12.4.2_Post_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_12/12.2.3.1_Post.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12/12.2.3.1_Post.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_12/12.3.3_is_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12/12.3.3_is_prime.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +103,8 @@
     "Python.12.3.2_This_is_volume_2.executor": "Run",
     "Python.12.3.3_is_prime.executor": "Run",
     "Python.12.4.1_Arithmetic_mean.executor": "Run",
+    "Python.12.4.2_Post_2.1.executor": "Run",
+    "Python.12.4.2_Post_2.executor": "Run",
     "Python.12_float_format.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
@@ -222,14 +223,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00034" summary="print (sembol, end = ' ')">
-      <option name="closed" value="true" />
-      <created>1739185424705</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1739185424705</updated>
     </task>
     <task id="LOCAL-00035" summary="print (symbol, end = ' ')">
       <option name="closed" value="true" />
@@ -615,7 +608,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744383615810</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="task module 12">
+      <option name="closed" value="true" />
+      <created>1744402110267</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1744402110268</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -673,6 +674,11 @@
           <url>file://$PROJECT_DIR$/module_12/12.2.2_Provision.py</url>
           <line>9</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_12/12.4.1_Arithmetic_mean.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
