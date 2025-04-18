@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 12">
-      <change afterPath="$PROJECT_DIR$/module_12/12.4.3_Navigator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/12.5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/Practical/12.6.1.def__summa_n(N).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/Practical/12.6.2_def__in__def.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +107,9 @@
     "Python.12.4.2_Post_2.1.executor": "Run",
     "Python.12.4.2_Post_2.executor": "Run",
     "Python.12.4.3_Navigator.executor": "Run",
+    "Python.12.5.1.executor": "Debug",
+    "Python.12.6.1.executor": "Run",
+    "Python.12.6.2_def__in__def.executor": "Run",
     "Python.12_float_format.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
