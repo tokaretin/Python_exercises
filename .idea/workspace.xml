@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 12">
-      <change afterPath="$PROJECT_DIR$/module_12/12.5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_12/Practical/12.6.1.def__summa_n(N).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_12/Practical/12.6.2_def__in__def.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/Practical/12.6.3_Calculator_Upgrade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/Practical/12.6.4_.Text_redactor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_12/Practical/12.6.5_Two_games.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +110,11 @@
     "Python.12.5.1.executor": "Debug",
     "Python.12.6.1.executor": "Run",
     "Python.12.6.2_def__in__def.executor": "Run",
+    "Python.12.6.3_Calculator_Upgrade.executor": "Run",
+    "Python.12.6.4_.Text_redactor.executor": "Run",
+    "Python.12.6.5_Two_games.executor": "Run",
     "Python.12_float_format.executor": "Run",
+    "Python.2121.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
     "Python.3.11.2.executor": "Run",
@@ -228,14 +232,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00035" summary="print (symbol, end = ' ')">
-      <option name="closed" value="true" />
-      <created>1739216857514</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1739216857514</updated>
     </task>
     <task id="LOCAL-00036" summary="Practical_tasks_module_9">
       <option name="closed" value="true" />
@@ -621,7 +617,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744402110268</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="task module 12">
+      <option name="closed" value="true" />
+      <created>1744937238511</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1744937238511</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
