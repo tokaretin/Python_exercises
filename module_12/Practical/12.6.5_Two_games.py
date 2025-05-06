@@ -35,6 +35,34 @@ import random
 # def rock_paper_scissors():
 # # Здесь будет игра «Камень, ножницы, бумага»
 
+def rock_paper_scissors():
+# Игра камень, ножницы, бумага
+    options = ['K', 'N', 'B'] # K камень, N ножницы, B бумага
+    user = input('Выбери букву что означает:\n'
+                 'К - камень\n'
+                 'N - ножницы\n'
+                 'B - бумага\n'
+                 'Ваш выбор: ').upper()
+    # .upper() делай все буквы заглавными, чтобы было легче сравнить
+
+    if user not in options:
+        print('Ошибка ввода')
+    else:
+        # Компьютер выбирает камень, ножницы или бумагу
+        computer = random.choice(options)
+        print(f'Компьютер выбрал {computer}')
+
+        # Определяем результат
+        if user == computer:
+            print(f'У вас ничья {user} / {computer}')
+        elif (user == 'K' and computer == 'N') or \
+            (user == 'N' and computer == 'B') or \
+            (user == 'B' and computer == 'K'):
+            print('Вы выйграли')
+        else:
+            print('Вы проиграли')
+
+
 def guess_the_number():
 # Здесь будет игра «Угадай число»
     secret = random.randint(1, 100)
@@ -62,7 +90,7 @@ def main_menu():
         print('\nВы выбрали игру "Камень, ножницы, бумага"\n'
               'Правила игры: Камень бьёт ножницы, ножницы режут бумагу, бумага кроет камень.\n'
               'Давай играть!!!\n')
-        # rock_paper_scissors()
+        rock_paper_scissors()
     elif choice == 2:
         print('\nВы выбрали игру "Угадай число"\n'
               'Правила игры: программа запрашивает у пользователя число от 1 до 100\n'
