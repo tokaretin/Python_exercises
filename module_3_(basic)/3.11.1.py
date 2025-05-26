@@ -5,10 +5,10 @@ print('first_num', first_num)
 second_num = (num // 100) % 10  #(1234 // 100) % 10 = 12 % 10 = 2  Делим на 100, а затем берём остаток от деления на 10:
 print('second_num', second_num)
 
-third_num = (num // 10) % 10   #(1234 // 10) % 10 = module_3 Делим на 10 и берём остаток от деления на 10:
+third_num = (num // 10) % 10   #(1234 // 10) % 10 = module_3_(basic) Делим на 10 и берём остаток от деления на 10:
 print('third_num', third_num)
 
-fourth_num = num % 10       #1234 % 10 = module_4  Остаток от деления на 10 даёт последнюю цифру:
+fourth_num = num % 10       #1234 % 10 = module_4_(if_else)  Остаток от деления на 10 даёт последнюю цифру:
 
 
 print('fourth_num', fourth_num)

@@ -1,4 +1,4 @@
-# Задача module_3. Дружба
+# Задача module_3_(basic). Дружба
 
 number = int(input("Введите число: "))
 if number % 2 == 0:

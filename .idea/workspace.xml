@@ -5,9 +5,198 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 12">
-      <change afterPath="$PROJECT_DIR$/module_12/12.7_Greatest_common_divisor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_12/python version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_13_(float_2)/13.2.1_Sum_of_numbers_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_13_(float_2)/13.2.1_Tax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_13_(float_2)/13.2.2_Back_to_the_Future.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_13_(float_2)/13.2.3_priority.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_13_(float_2)/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/10.1.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/10.1.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/10.1.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/10.1.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/10.1.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/10.1.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/10.2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/10.2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/10.2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/10.2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/10.2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/10.2.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/10.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/10.3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/10.3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/10.3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/10.3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/10.3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/10.4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/10.4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/10.4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/10.4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/10.4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/10.4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/Practical_tasks_module_10/10.6.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/Practical_tasks_module_10/10.6.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/Practical_tasks_module_10/10.6.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/Practical_tasks_module_10/10.6.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/Practical_tasks_module_10/10.6.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/Practical_tasks_module_10/10.6.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.7.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/Practical_tasks_module_10/10.7.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.7.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/Practical_tasks_module_10/10.7.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/Practical_tasks_module_10/tasks" beforeDir="false" afterPath="$PROJECT_DIR$/module_10_(for)/Practical_tasks_module_10/tasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/11.2.1_Sports_betting.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/11.2.1_Sports_betting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/11.2.2_Birthday.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/11.2.2_Birthday.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/11.2.3_Dody_mass_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/11.2.3_Dody_mass_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/11.3.1_Space_Rangers.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/11.3.1_Space_Rangers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/11.3.2_Computer_vision.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/11.3.2_Computer_vision.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/11.3.3_Accuracy_and_precision.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/11.3.3_Accuracy_and_precision.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/11.4.1_Mega_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/11.4.1_Mega_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/11.4.2_Heron.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/11.4.2_Heron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/11.4.3_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/11.4.3_Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.1_Converting.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/Practical_tasks_module_11/11.6.1_Converting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.2_Rough_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/Practical_tasks_module_11/11.6.2_Rough_math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.3_Steam_Analog.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/Practical_tasks_module_11/11.6.3_Steam_Analog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.4_The_first_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/Practical_tasks_module_11/11.6.4_The_first_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.6.5_That’s_the_volume!.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/Practical_tasks_module_11/11.6.5_That’s_the_volume!.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.7..1_Maximum_of_two_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/Practical_tasks_module_11/11.7..1_Maximum_of_two_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.7_Hat_trick_(first_variant).py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/Practical_tasks_module_11/11.7_Hat_trick_(first_variant).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.7_Hat_trick_(second_variant).py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/Practical_tasks_module_11/11.7_Hat_trick_(second_variant).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_11/Practical_tasks_module_11/11.7_Hat_trick_(third_variant).py" beforeDir="false" afterPath="$PROJECT_DIR$/module_11_(int_float)/Practical_tasks_module_11/11.7_Hat_trick_(third_variant).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.2.1_Robot.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.2.1_Robot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.2.2_Provision.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.2.2_Provision.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.2.3.1_Post.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.2.3.1_Post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.2.3_Post.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.2.3_Post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.2_def.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.2_def.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.3.1_Water.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.3.1_Water.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.3.2_This_is_volume_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.3.2_This_is_volume_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.3.3_is_prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.3.3_is_prime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.4.1_Arithmetic_mean.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.4.1_Arithmetic_mean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.4.2_Post_2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.4.2_Post_2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.4.2_Post_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.4.2_Post_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.4.3_Navigator.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.4.3_Navigator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.5.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12.7_Greatest_common_divisor.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12.7_Greatest_common_divisor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/12_float_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/12_float_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/Practical/12.6.1.def__summa_n(N).py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/Practical/12.6.1.def__summa_n(N).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/Practical/12.6.2_def__in__def.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/Practical/12.6.2_def__in__def.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/Practical/12.6.3_Calculator_Upgrade.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/Practical/12.6.3_Calculator_Upgrade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/Practical/12.6.4_.Text_redactor.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/Practical/12.6.4_.Text_redactor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/Practical/12.6.5_Two_games.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/Practical/12.6.5_Two_games.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_12/python version.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_12_(def)/python version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/1.1_first_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/1.1_first_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/3.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/3.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/3.11.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/3.11.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/3.11.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/3.11.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/3.4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/3.4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/3.4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/3.4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/3.5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/3.5.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/3.5.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/3.5.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/3.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/3.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/Practical_tasks_module_3/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/Practical_tasks_module_3/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/Practical_tasks_module_3/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/Practical_tasks_module_3/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/Practical_tasks_module_3/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/Practical_tasks_module_3/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/Practical_tasks_module_3/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/Practical_tasks_module_3/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/Practical_tasks_module_3/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/Practical_tasks_module_3/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/Practical_tasks_module_3/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/Practical_tasks_module_3/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/Practical_tasks_module_3/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/Practical_tasks_module_3/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_3/Practical_tasks_module_3/task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_3_(basic)/Practical_tasks_module_3/task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/4.2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/4.2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/4.2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/4.2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/4.2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/4.2.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/4.3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/4.3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/4.3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/4.3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/4.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/4.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/Practical_tasks_module_4/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/Practical_tasks_module_4/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/Practical_tasks_module_4/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/Practical_tasks_module_4/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/Practical_tasks_module_4/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/Practical_tasks_module_4/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/Practical_tasks_module_4/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/Practical_tasks_module_4/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/Practical_tasks_module_4/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/Practical_tasks_module_4/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/Practical_tasks_module_4/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/Practical_tasks_module_4/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/Practical_tasks_module_4/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/Practical_tasks_module_4/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/Practical_tasks_module_4/task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/Practical_tasks_module_4/task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_4/Practical_tasks_module_4/tasks" beforeDir="false" afterPath="$PROJECT_DIR$/module_4_(if_else)/Practical_tasks_module_4/tasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/5.2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/5.2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/5.2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/5.2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/5.2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/5.2.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/5.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/5.3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/5.3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/5.3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/5.3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/5.3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/5.4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/5.4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/5.4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/5.4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/5.4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/5.4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/5.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/5.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/5.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/5.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/5.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/5.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/5.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/5.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/Practical_tasks_module_5/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/Practical_tasks_module_5/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/Practical_tasks_module_5/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/Practical_tasks_module_5/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/Practical_tasks_module_5/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/Practical_tasks_module_5/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/Practical_tasks_module_5/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/Practical_tasks_module_5/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/Practical_tasks_module_5/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/Practical_tasks_module_5/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/Practical_tasks_module_5/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/Practical_tasks_module_5/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/Practical_tasks_module_5/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/Practical_tasks_module_5/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5/Practical_tasks_module_5/tasks" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_(if_else)/Practical_tasks_module_5/tasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/6.2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/6.2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/6.2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/6.2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/6.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/6.3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/6.3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/6.3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/6.4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/6.4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/6.4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/6.4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/6.4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/6.4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/6.5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/6.5.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/6.5.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/6.5.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/6.5.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/6.5.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/Practical_tasks_module_6/Binary Search Algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/Practical_tasks_module_6/Binary Search Algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/Practical_tasks_module_6/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/Practical_tasks_module_6/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/Practical_tasks_module_6/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/Practical_tasks_module_6/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/Practical_tasks_module_6/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/Practical_tasks_module_6/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/Practical_tasks_module_6/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/Practical_tasks_module_6/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/Practical_tasks_module_6/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/Practical_tasks_module_6/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/Practical_tasks_module_6/tasks" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/Practical_tasks_module_6/tasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_6/bin.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_6_(while)/bin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/7.2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/7.2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/7.2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/7.2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/7.2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/7.2.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/7.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/7.3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/7.3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/7.3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/7.3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/7.3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/7.4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/7.4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/7.4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/7.4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/7.4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/7.4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/7.5.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/7.5.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/7.7.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/7.7.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/Practical_tasks_module_7/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/Practical_tasks_module_7/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/Practical_tasks_module_7/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/Practical_tasks_module_7/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/Practical_tasks_module_7/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/Practical_tasks_module_7/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/Practical_tasks_module_7/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/Practical_tasks_module_7/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/Practical_tasks_module_7/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/Practical_tasks_module_7/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_7/Practical_tasks_module_7/tasks" beforeDir="false" afterPath="$PROJECT_DIR$/module_7_(for)/Practical_tasks_module_7/tasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/8.2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/8.2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/8.2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/8.2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/8.2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/8.2.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/8.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/8.3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/8.3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/8.3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/8.3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/8.3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/8.4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/8.4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/8.4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/8.4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/8.4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/8.4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/8.7.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/8.7.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/Practical_tasks_module_8/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/Practical_tasks_module_8/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/Practical_tasks_module_8/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/Practical_tasks_module_8/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/Practical_tasks_module_8/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/Practical_tasks_module_8/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/Practical_tasks_module_8/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/Practical_tasks_module_8/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/Practical_tasks_module_8/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/Practical_tasks_module_8/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_8/Practical_tasks_module_8/tasks" beforeDir="false" afterPath="$PROJECT_DIR$/module_8_(for)/Practical_tasks_module_8/tasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/9.2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/9.2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/9.2.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.3.0_for_loop_Exemple.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/9.3.0_for_loop_Exemple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.3.0_for_loop_split().py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/9.3.0_for_loop_split().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.3.0_split()_and_isalpha().py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/9.3.0_split()_and_isalpha().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.3.1_for_loop_iterating_by_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/9.3.1_for_loop_iterating_by_line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.3.2_for_loop_iterating_by_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/9.3.2_for_loop_iterating_by_line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.3.3_for_loop_iterating_by_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/9.3.3_for_loop_iterating_by_line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.4.1_print_function_END.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/9.4.1_print_function_END.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.4.2_print_function_END.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/9.4.2_print_function_END.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.4.3_print_function_END.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/9.4.3_print_function_END.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.7.1_reverse_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/9.7.1_reverse_word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/9.7.2_decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/9.7.2_decoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/Practical_tasks_module_9/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/Practical_tasks_module_9/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/Practical_tasks_module_9/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/Practical_tasks_module_9/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/Practical_tasks_module_9/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_9/Practical_tasks_module_9/tasks" beforeDir="false" afterPath="$PROJECT_DIR$/module_9_(for)/Practical_tasks_module_9/tasks" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +303,10 @@
     "Python.12.6.5_Two_games.executor": "Run",
     "Python.12.7_Greatest_common_divisor.executor": "Debug",
     "Python.12_float_format.executor": "Run",
+    "Python.13.2.1_Sum_of_numbers_2.executor": "Run",
+    "Python.13.2.1_Tax.executor": "Run",
+    "Python.13.2.2_Back_to_the_Future.executor": "Run",
+    "Python.13.2.3_priority.executor": "Run",
     "Python.2121.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
@@ -233,14 +426,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Practical_tasks_module_9 Task_3">
-      <option name="closed" value="true" />
-      <created>1739283641896</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1739283641896</updated>
     </task>
     <task id="LOCAL-00039" summary="Practical_tasks_module_9 Task_4">
       <option name="closed" value="true" />
@@ -626,7 +811,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746533284162</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="task module 12">
+      <option name="closed" value="true" />
+      <created>1747934701820</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1747934701820</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -661,32 +854,32 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_3/3.9.py</url>
+          <url>file://$PROJECT_DIR$/module_3_(basic)/3.9.py</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_9/Practical_tasks_module_9/task_5.py</url>
+          <url>file://$PROJECT_DIR$/module_9_(for)/Practical_tasks_module_9/task_5.py</url>
           <line>33</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.1.py</url>
+          <url>file://$PROJECT_DIR$/module_10_(for)/Practical_tasks_module_10/10.6.1.py</url>
           <line>30</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_10/Practical_tasks_module_10/10.6.2.py</url>
+          <url>file://$PROJECT_DIR$/module_10_(for)/Practical_tasks_module_10/10.6.2.py</url>
           <line>25</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_12/12.2.2_Provision.py</url>
+          <url>file://$PROJECT_DIR$/module_12_(def)/12.2.2_Provision.py</url>
           <line>9</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_12/12.4.1_Arithmetic_mean.py</url>
+          <url>file://$PROJECT_DIR$/module_12_(def)/12.4.1_Arithmetic_mean.py</url>
           <line>22</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>

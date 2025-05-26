@@ -1,7 +1,7 @@
-#Задача module_4. Калькулятор скидки
+#Задача module_4_(if_else). Калькулятор скидки
 thing_1 = int(input('Сколько стоит 1-я вещь? '))
 thing_2 = int(input('Сколько стоит 2-я вещь? '))
-thing_3 = int(input('Сколько стоит module_3-я вещь? '))
+thing_3 = int(input('Сколько стоит module_3_(basic)-я вещь? '))
 
 sum_things = thing_1 + thing_2 + thing_3
 if sum_things >= 10000:
