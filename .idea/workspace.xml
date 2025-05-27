@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff98c24a-cdd6-4848-ad8c-8a1b34f9383c" name="Changes" comment="task module 13">
-      <change afterPath="$PROJECT_DIR$/module_13_(float_2)/13.3.3_lesson_Inforamtica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_13_(float_2)/13.4.1_Taxes_again.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_13_(float_2)/13.3.2_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_13_(float_2)/13.3.2_testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_13_(float_2)/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_13_(float_2)/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,7 @@
     "Python.13.2.3_priority.executor": "Run",
     "Python.13.3.1_computer's_ability.executor": "Run",
     "Python.13.3.2_testing.executor": "Run",
-    "Python.13.3.3_lesson_Inforamtica.executor": "Debug",
+    "Python.13.3.3_lesson_Inforamtica.executor": "Run",
     "Python.2121.executor": "Run",
     "Python.3.10.executor": "Run",
     "Python.3.11.1.executor": "Run",
@@ -240,14 +240,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737927780082</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Practical_tasks_module_9 reverse_word">
-      <option name="closed" value="true" />
-      <created>1739317921733</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1739317921733</updated>
     </task>
     <task id="LOCAL-00042" summary="decoder">
       <option name="closed" value="true" />
@@ -633,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748345854519</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="task module 13">
+      <option name="closed" value="true" />
+      <created>1748355424569</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1748355424569</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -701,6 +701,11 @@
           <url>file://$PROJECT_DIR$/module_13_(float_2)/13.3.3_lesson_Inforamtica.py</url>
           <line>26</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module_13_(float_2)/__init__.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
