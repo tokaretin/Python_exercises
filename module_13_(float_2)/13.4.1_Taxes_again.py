@@ -18,3 +18,8 @@
 # Введите бюджет страны: 1.23e12
 # Новые поступления (налог): 1.2e1
 # Результат: Бюджет не изменится
+
+
+print('JGLKHBf.  srrbgksjrgnw')
+print('JGLKHBf.  srrbgksjrgnw')
+print('JGLKHBf.  srrbgksjrgnw')
